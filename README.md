@@ -23,5 +23,5 @@ A terminal-based file explorer developed as part of an operating systems mini-pr
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CLI-File-Explorer.git
+   git clone https://github.com/arunimaghosh18/CLI-File-Explorer.git
    cd CLI-File-Explorer
